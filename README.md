@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redcreeperz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
